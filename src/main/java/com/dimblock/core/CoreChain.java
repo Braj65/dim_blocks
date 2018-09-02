@@ -11,6 +11,7 @@ import java.util.List;
 import com.google.common.hash.Hashing;
 import com.google.common.math.IntMath;
 
+//Core chain
 public class CoreChain {
 	private List<Block> chain;
 
